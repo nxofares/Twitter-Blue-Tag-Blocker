@@ -30,4 +30,4 @@ This extension is developed independently and is not affiliated with Twitter. Us
 
 Feel free to customize the description and readme based on your specific project and its features. Make sure to include relevant information such as installation instructions, usage guidelines, contribution guidelines, and any disclaimers or license information.
 
-I hope this helps! Let me know if you have any further questions.
+
